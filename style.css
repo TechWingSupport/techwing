@@ -12,3 +12,15 @@ Text Domain: tabularasa
 /*--------------------------------------------------------------
 # Styles
 --------------------------------------------------------------*/
+
+Body {
+    background-color: #444;
+}
+
+.hero-tagline {
+    color: #aaa;
+}
+
+.skill-interval {
+    color: #fff;
+}
