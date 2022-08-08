@@ -14,13 +14,13 @@ Text Domain: TechWing
 --------------------------------------------------------------*/
 
 Body {
-    background-color: #444;
+    background-color: #ccc;
 }
 
 .hero-tagline {
-    color: #aaa;
+    color: #444;
 }
 
-.skill-interval {
-    color: #fff;
+.hero-tagline > span {
+    color: #0000ff;
 }

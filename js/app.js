@@ -4,6 +4,7 @@
         // Start app code
         const techList = [
             'building a website',
+            'making your website mobile-friendly',
             'technical support',
             'optimizing a current website',
             'setting up hosting and domain names',
@@ -19,7 +20,6 @@
                 if (i < 6) {
                     var opValue = output[i];
                     heroTagline.html(opValue);
-                    console.log(opValue);
                     i++
                 } else {
                    i = 0;
